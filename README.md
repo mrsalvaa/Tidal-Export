@@ -1,9 +1,9 @@
-HOW TO USE:<br>
+HOW TO USE:<br><br>
 LINUX:<br>
-Type the following into the console (in the directory where you want to export the file)
+Type the following command into the console (in the directory where you want to export the file)
 
 > python tidal_export.py
 
-Start the session via the link provided, and wait for the export to complete
+Start the session via the link provided, and wait for the export to complete <br><br>
 
 WINDOWS: idk :)
