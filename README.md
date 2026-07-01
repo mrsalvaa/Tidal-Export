@@ -1,5 +1,5 @@
-HOW TO USE:
-LINUX:
+HOW TO USE:<br>
+LINUX:<br>
 Type the following into the console (in the directory where you want to export the file)
 
 > python tidal_export.py
