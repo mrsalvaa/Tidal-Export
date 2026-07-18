@@ -2,7 +2,7 @@ import csv
 import tidalapi
 
 session = tidalapi.Session()
-session.login_oauth_simple()  # te da una URL para autorizar, nada queda guardado salvo el token local
+session.login_oauth_simple()  #URL for authorization
 
 user_playlists = session.user.playlists()
 
